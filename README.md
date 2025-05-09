@@ -31,11 +31,9 @@ The goal of this project is to develop models that predict alcohol consumption b
 
 ### **🧠 Experiments**
 - (Optionally structured folders) `FNN_model/`, `LSTM_model/`, `CNN_model/`, `RNN_model/`, `ESN_model/` → Model-specific training results and saved models.
-- `grid_search_results/` → Logs and outputs from hyperparameter tuning experiments.
 
 ### **⚙️ Code**
 - `utils.py` → Utility functions for data loading, preprocessing, and metrics.
-- `config.yaml` (if used) → Centralized configuration for model parameters and experiment settings.
 
 ### **📈 Results**
 - `figures/` → Saved plots: training curves, prediction overlays, classification accuracy.
@@ -43,7 +41,6 @@ The goal of this project is to develop models that predict alcohol consumption b
 
 ### **📜 Other Files**
 - `requirements.txt` → List of Python packages required to run the project.
-- `.gitignore` → Git exclusion rules.
 - `README.md` → This documentation file.
 
 ---
